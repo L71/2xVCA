@@ -14837,9 +14837,9 @@ Source: www.kingbright.com</description>
 <parts>
 <part name="FRAME1" library="frames" deviceset="DINA3_L" device=""/>
 <part name="CV1" library="thonkiconn" deviceset="WQP-PJ301M-12_JACK" device=""/>
-<part name="R1" library="rcl" deviceset="R-EU_" device="0207/2V" value="33k"/>
-<part name="R2" library="rcl" deviceset="R-EU_" device="0207/2V" value="10k"/>
-<part name="R3" library="pot-alps" deviceset="POT_US" device="VERTICAL" value="100k"/>
+<part name="R1" library="rcl" deviceset="R-EU_" device="0207/2V" value="4.7k"/>
+<part name="R2" library="rcl" deviceset="R-EU_" device="0207/2V" value="33k"/>
+<part name="R3" library="pot-alps" deviceset="POT_US" device="VERTICAL" value="10k LIN"/>
 <part name="IC1" library="linear" deviceset="TL072" device="P"/>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
@@ -14863,11 +14863,11 @@ Source: www.kingbright.com</description>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
 <part name="CV2" library="thonkiconn" deviceset="WQP-PJ301M-12_JACK" device=""/>
 <part name="GND9" library="supply1" deviceset="GND" device=""/>
-<part name="R9" library="rcl" deviceset="R-EU_" device="0207/2V" value="33k"/>
-<part name="R10" library="pot-alps" deviceset="POT_US" device="VERTICAL" value="100k"/>
+<part name="R9" library="rcl" deviceset="R-EU_" device="0207/2V" value="4.7k"/>
+<part name="R10" library="pot-alps" deviceset="POT_US" device="VERTICAL" value="10k LIN"/>
 <part name="P+2" library="supply1" deviceset="VCC" device=""/>
 <part name="GND10" library="supply1" deviceset="GND" device=""/>
-<part name="R11" library="rcl" deviceset="R-EU_" device="0207/2V" value="10k"/>
+<part name="R11" library="rcl" deviceset="R-EU_" device="0207/2V" value="33k"/>
 <part name="IC3" library="linear" deviceset="TL072" device="P"/>
 <part name="C3" library="rcl" deviceset="C-EU" device="025-025X050" value="470p"/>
 <part name="R12" library="rcl" deviceset="R-EU_" device="0207/2V" value="47k"/>

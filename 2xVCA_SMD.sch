@@ -10382,7 +10382,7 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
 <part name="P+1" library="supply1" deviceset="VCC" device=""/>
-<part name="C1" library="rcl" deviceset="C-EU" device="C0603" value="470p"/>
+<part name="C1" library="rcl" deviceset="C-EU" device="C0603K" value="470p"/>
 <part name="R4" library="rcl" deviceset="R-EU_" device="R0603" value="47k"/>
 <part name="GND3" library="supply1" deviceset="GND" device=""/>
 <part name="IN1" library="thonkiconn" deviceset="WQP-PJ301M-12_JACK" device=""/>
@@ -10412,7 +10412,7 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <part name="GND14" library="supply1" deviceset="GND" device=""/>
 <part name="GND15" library="supply1" deviceset="GND" device=""/>
 <part name="GND16" library="supply1" deviceset="GND" device=""/>
-<part name="C5" library="rcl" deviceset="C-EU" device="C0603" value="100n"/>
+<part name="C5" library="rcl" deviceset="C-EU" device="C0603K" value="100n"/>
 <part name="GND17" library="supply1" deviceset="GND" device=""/>
 <part name="P+3" library="supply1" deviceset="VCC" device=""/>
 <part name="VSS1" library="supply1" deviceset="VSS" device=""/>
@@ -10440,18 +10440,18 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <part name="R9" library="rcl" deviceset="R-EU_" device="R0603" value="4.7k"/>
 <part name="R11" library="rcl" deviceset="R-EU_" device="R0603" value="33k"/>
 <part name="R12" library="rcl" deviceset="R-EU_" device="R0603" value="47k"/>
-<part name="C3" library="rcl" deviceset="C-EU" device="C0603" value="470p"/>
+<part name="C3" library="rcl" deviceset="C-EU" device="C0603K" value="470p"/>
 <part name="Q1" library="transistor-pnp" deviceset="MMBT3906*" device="SMD" technology="LT1"/>
 <part name="R13" library="rcl" deviceset="R-EU_" device="R0603" value="100k"/>
 <part name="C4" library="rcl" deviceset="C-EU" device="C0603K" value="47p"/>
 <part name="R14" library="rcl" deviceset="R-EU_" device="R0603" value="1k"/>
 <part name="R15" library="rcl" deviceset="R-EU_" device="R0603" value="100k"/>
 <part name="R16" library="rcl" deviceset="R-EU_" device="R0603" value="220"/>
-<part name="C6" library="rcl" deviceset="C-EU" device="C0603" value="100n"/>
-<part name="C7" library="rcl" deviceset="C-EU" device="C0603" value="100n"/>
-<part name="C8" library="rcl" deviceset="C-EU" device="C0603" value="100n"/>
-<part name="C9" library="rcl" deviceset="C-EU" device="C0603" value="100n"/>
-<part name="C10" library="rcl" deviceset="C-EU" device="C0603" value="100n"/>
+<part name="C6" library="rcl" deviceset="C-EU" device="C0603K" value="100n"/>
+<part name="C7" library="rcl" deviceset="C-EU" device="C0603K" value="100n"/>
+<part name="C8" library="rcl" deviceset="C-EU" device="C0603K" value="100n"/>
+<part name="C9" library="rcl" deviceset="C-EU" device="C0603K" value="100n"/>
+<part name="C10" library="rcl" deviceset="C-EU" device="C0603K" value="100n"/>
 </parts>
 <sheets>
 <sheet>
